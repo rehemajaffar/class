@@ -1,6 +1,13 @@
 
 img {
-    float: right;
-    height: 420px;
-    width: 740px;
+    float: left;
+    height: 170Spx;
+    width: 370px;
+    margin: 1%;
+}
+h1 {
+    color: rgb(5, 5, 100);
+}
+body {
+    background-color: rgb(151, 199, 240);
 }
